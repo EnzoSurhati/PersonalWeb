@@ -1,19 +1,15 @@
-/* General Styles */
 body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   margin: 0;
   padding: 0;
 }
-
-/* Header Styles */
 header {
   background-color: #773e3e;
   color: #fff;
   padding: 1rem 0;
   text-align: center;
 }
-
 .pages a {
   margin: 25px;
   color: #fff;
