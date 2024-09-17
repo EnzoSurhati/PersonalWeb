@@ -14,14 +14,14 @@ header {
   text-align: center;
 }
 
-.navigation a {
+.pages a {
   margin: 25px;
   color: #fff;
   text-decoration: none;
   transition: color 0.2s;
 }
 
-.navigation a:hover {
+.pages a:hover {
   color: #ffcc00; 
 }
 
