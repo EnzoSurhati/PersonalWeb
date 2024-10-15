@@ -1,2 +1,2 @@
 # Personal Site
-Personal Website about Enzo Surhati.
+Enzo Surhati Personal Website.
